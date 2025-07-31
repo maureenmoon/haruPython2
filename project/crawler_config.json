@@ -1,0 +1,7 @@
+{
+  "last_crawled_number": 1688,
+  "last_crawl_date": "2025-07-29T19:08:32.194890",
+  "max_articles_per_month": 20,
+  "delay_between_requests": 1.0,
+  "auto_increment_limit": 50
+}
